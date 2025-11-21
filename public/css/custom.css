@@ -1,0 +1,8 @@
+.order-now-link {
+    all: unset;
+    display: block !important;
+}
+
+.order-now-link button {
+    pointer-events: none;
+}
